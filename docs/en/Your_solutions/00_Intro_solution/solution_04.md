@@ -4,10 +4,10 @@
 
 Before solving the problem, it is essential to understand the variables involved in the formula for a simple pendulum:
 
-* **Period ($T$):** The time required for one complete cycle of oscillation (back and forth). It is typically measured in seconds ($s$).
-* **Length ($L$):** The distance from the pivot point to the center of mass of the pendulum bob. It is typically measured in meters ($m$).
-* **Acceleration due to Gravity ($g$):** The constant acceleration exerted by gravity on a free-falling object. On Earth, this is approximately $9.81 \, m/s^2$.
-* **The Pendulum Formula:**
+*   **Period ($T$):** The time required for one complete cycle of oscillation (back and forth). It is typically measured in seconds ($s$).
+*   **Length ($L$):** The distance from the pivot point to the center of mass of the pendulum bob. It is typically measured in meters ($m$).
+*   **Acceleration due to Gravity ($g$):** The constant acceleration exerted by gravity on a free-falling object. On Earth, this is approximately $9.81 \, m/s^2$.
+*   **The Pendulum Formula:**
     $$T = 2\pi \sqrt{\frac{L}{g}}$$
 
 ## 2. Solving the Problem
